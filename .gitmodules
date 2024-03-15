@@ -1,0 +1,9 @@
+[submodule "front"]
+	path = front
+	url = https://github.com/devops-fundamentals-templates/dofd-05-Velovo123.git
+[submodule "frontend"]
+	path = frontend
+	url = https://github.com/devops-fundamentals-templates/dofd-05-Velovo123.git
+[submodule "backend"]
+	path = backend
+	url = https://github.com/devops-fundamentals-templates/dofd-05-dotnet-Velovo123.git
